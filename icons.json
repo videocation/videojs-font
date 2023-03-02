@@ -1,48 +1,49 @@
 {
   "font-name": "VideoJS",
-  "root-dir": "./node_modules/material-design-icons/",
+  "root-dir": "./node_modules/@material-design-icons/svg/round/",
   "icons": [{
     "name": "play",
-    "svg": "av/svg/production/ic_play_arrow_48px.svg"
+    "svg": "play_arrow.svg"
   }, {
     "name": "play-circle",
-    "svg": "av/svg/production/ic_play_circle_outline_48px.svg"
+    "svg": "play_circle_filled.svg"
   }, {
     "name": "pause",
-    "svg": "av/svg/production/ic_pause_48px.svg"
+    "svg": "pause_circle_outline.svg"
   }, {
     "name": "volume-mute",
-    "svg": "av/svg/production/ic_volume_off_48px.svg"
+    "svg": "volume_off.svg"
   }, {
     "name": "volume-low",
-    "svg": "av/svg/production/ic_volume_mute_48px.svg"
+    "svg": "volume_mute.svg"
   }, {
     "name": "volume-mid",
-    "svg": "av/svg/production/ic_volume_down_48px.svg"
+    "svg": "volume_down.svg"
   }, {
     "name": "volume-high",
-    "svg": "av/svg/production/ic_volume_up_48px.svg"
+    "svg": "volume_up.svg"
   }, {
     "name": "fullscreen-enter",
-    "svg": "navigation/svg/production/ic_fullscreen_48px.svg"
+    "svg": "fullscreen.svg"
   }, {
     "name": "fullscreen-exit",
-    "svg": "navigation/svg/production/ic_fullscreen_exit_48px.svg"
+    "svg": "fullscreen_exit.svg"
   }, {
     "name": "spinner",
-    "svg": "image/svg/production/ic_camera_48px.svg"
+    "svg": "camera.svg"
   }, {
     "name": "subtitles",
-    "svg": "av/svg/production/ic_subtitles_48px.svg"
+    "svg": "subtitles.svg",
+    "root-dir": "./node_modules/@material-design-icons/svg/outlined/"
   }, {
     "name": "captions",
-    "svg": "av/svg/production/ic_closed_caption_48px.svg"
+    "svg": "closed_caption.svg"
   }, {
     "name": "hd",
-    "svg": "av/svg/production/ic_hd_24px.svg"
+    "svg": "hd.svg"
   }, {
     "name": "chapters",
-    "svg": "action/svg/production/ic_list_48px.svg"
+    "svg": "list.svg"
   }, {
     "name": "downloading",
     "svg": "downloading.svg",
@@ -61,31 +62,31 @@
     "root-dir": "./custom-icons/mdi-v4/"
   }, {
     "name": "share",
-    "svg": "social/svg/production/ic_share_48px.svg"
+    "svg": "share.svg"
   }, {
     "name": "cog",
-    "svg": "action/svg/production/ic_settings_48px.svg"
+    "svg": "settings.svg"
   }, {
     "name": "square",
-    "svg": "image/svg/production/ic_crop_square_48px.svg"
+    "svg": "crop_square.svg"
   }, {
     "name": "circle",
-    "svg": "image/svg/production/ic_brightness_1_48px.svg"
+    "svg": "brightness_1.svg"
   }, {
     "name": "circle-outline",
-    "svg": "image/svg/production/ic_panorama_fish_eye_48px.svg"
+    "svg": "panorama_fish_eye.svg"
   }, {
     "name": "circle-inner-circle",
-    "svg": "image/svg/production/ic_adjust_48px.svg"
+    "svg": "adjust.svg"
   }, {
     "name": "cancel",
-    "svg": "navigation/svg/production/ic_cancel_48px.svg"
+    "svg": "cancel.svg"
   }, {
     "name": "repeat",
-    "svg": "av/svg/production/ic_repeat_48px.svg"
+    "svg": "repeat.svg"
   }, {
     "name": "replay",
-    "svg": "av/svg/production/ic_replay_48px.svg"
+    "svg": "replay.svg"
   }, {
     "name": "replay-5",
     "svg": "replay-5.svg",
@@ -112,22 +113,22 @@
     "root-dir": "./custom-icons/skip-forward-backward/"
   }, {
     "name": "audio",
-    "svg": "hardware/svg/production/ic_headset_48px.svg"
+    "svg": "headset.svg"
   }, {
     "name": "next-item",
-    "svg": "av/svg/production/ic_skip_next_48px.svg"
+    "svg": "skip_next.svg"
   }, {
     "name": "previous-item",
-    "svg": "av/svg/production/ic_skip_previous_48px.svg"
+    "svg": "skip_previous.svg"
   }, {
     "name": "shuffle",
-    "svg": "av/svg/production/ic_shuffle_48px.svg"
+    "svg": "shuffle.svg"
   }, {
     "name": "cast",
-    "svg": "hardware/svg/production/ic_cast_48px.svg"
+    "svg": "cast.svg"
   }, {
     "name": "picture-in-picture-enter",
-    "svg": "action/svg/production/ic_picture_in_picture_alt_48px.svg"
+    "svg": "picture_in_picture_alt.svg"
   }, {
     "name": "picture-in-picture-exit",
     "svg": "picture-in-picture-exit.svg",
@@ -156,5 +157,9 @@
     "name": "audio-description",
     "svg": "audio-description.svg",
     "root-dir": "./custom-icons/"
+  }, {
+    "name": "subtitles-off",
+    "svg": "subtitles_off.svg",
+    "root-dir": "./node_modules/@material-design-icons/svg/outlined/"
   }]
 }
